@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(NewTetris)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(NewTetris main.cpp Figure.cpp Figure.h Bunch.cpp Bunch.h Canvas.cpp Canvas.h)

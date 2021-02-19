@@ -1,0 +1,3 @@
+/home/danilamstr/CLionProjects/OpenGLProjects/NewTetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danilamstr/CLionProjects/OpenGLProjects/NewTetris/cmake-build-debug/CMakeFiles/NewTetris.dir
+/home/danilamstr/CLionProjects/OpenGLProjects/NewTetris/cmake-build-debug/CMakeFiles/edit_cache.dir
